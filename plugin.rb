@@ -2,6 +2,8 @@
 # about: Hiveon Theme
 # authors: Val
 
+enabled_site_setting :hiveon_forum_theme_enabled
+PLUGIN_NAME = "hiveon_forum_theme".freeze
 after_initialize do
 
   module HiveonDesign

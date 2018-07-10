@@ -1,0 +1,9 @@
+default: true
+
+logo_url:
+  default: "https://simple-storage.sgp1.digitaloceanspaces.com/hiveos-logo.svg"
+  type: string
+  description: "This is the source link to your large logo file"
+
+# required:
+#     company_short_name: Hiveon

@@ -1,0 +1,19 @@
+#site-logo {
+    content: url(https://simple-storage.sgp1.digitaloceanspaces.com/hiveos-logo.svg);
+    height: 30px;
+    display: block;
+}
+
+html, body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.topic-list .main-link {
+    font-size: 16px;
+    font-weight: 600;
+    color: #e9e9e9;
+}
+
+.navigation-topics.docked .d-header {
+    background-color: #21252b;
+}
